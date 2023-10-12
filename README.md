@@ -1,14 +1,29 @@
-## 支持群晖、威联通等x64、arm64、arm32平台nas
+## 说明
+
+- 本仓库发行版由 Github Action **自动构建** 
+
+- 同步 [superng6/qbittorrentee](https://hub.docker.com/r/superng6/qbittorrentee) 版本
+  
+- `Dockerhub` [rocky9/qbittorrentee](https://hub.docker.com/repository/docker/rocky9/qbittorrentee/general)
+
+### 感谢:
+
+- [SuperNG6/Docker-qBittorrent-Enhanced-Edition](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition)
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)
+- [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist)
+
+## Changelogs
+### 2023/10/12
+
+    同步 c0re100/qBittorrent-Enhanced-Edition v4.5.5.10
+
+---
+# 原作者 README
+
+### 支持群晖、威联通等x64、arm64、arm32平台nas
 博客：https://sleele.com/2020/01/09/docker-qbittorrent增强版，反迅雷吸血  
 GitHub：https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition  
-
-
-[https://hub.docker.com/r/superng6/qbittorrentee](https://hub.docker.com/r/superng6/qbittorrentee)
-
-### 感谢以下项目:
-[https://github.com/qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)   
-[https://github.com/c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)    
-[https://github.com/ngosang/trackerslist]( https://github.com/ngosang/trackerslist)
 
 
 ###  其他项目 Docker qBittorrent 中国优化版
